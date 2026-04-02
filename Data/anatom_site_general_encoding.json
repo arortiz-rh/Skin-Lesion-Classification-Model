@@ -1,0 +1,10 @@
+{
+  "anterior torso": 0,
+  "upper extremity": 1,
+  "posterior torso": 2,
+  "lower extremity": 3,
+  "lateral torso": 4,
+  "head/neck": 5,
+  "oral/genital": 6,
+  "palms/soles": 7
+}
